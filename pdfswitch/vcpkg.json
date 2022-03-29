@@ -1,0 +1,6 @@
+{
+  "name": "pdfswitch",
+  "version-string": "2.00",
+  "dependencies": [ "boost" ]
+
+}
