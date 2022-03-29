@@ -1,0 +1,9 @@
+namespace pdfswitch
+{
+    [default_interface]
+    runtimeclass resources : Windows.UI.Xaml.Controls.Page
+    {
+        resources();
+        Int32 MyProperty;
+    }
+}
